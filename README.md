@@ -8,5 +8,3 @@ To optimise this, I used AutoHotkey, a scripting language often employed for aut
 
 ## Problem Statement & Solution 2
 Another time-intensive process involved uploading large 46–50-page PDF order files from retail clients. These PDFs contained specific details—order numbers, styles, carat, etc.—which employees manually converted to Excel and modified over 20 minutes per file to make them compatible with the legacy system, often leading to errors. To address this, I wrote a Python script allowing users to upload the PDF. The script automatically converted, formatted, and fabricated the data into an uploadable format within seconds, ensuring 100% accuracy and saving significant time. 
-
-> Both solutions incorporated lean thinking principles, kaizen, improving processes and eliminating inefficiencies wherever possible. I was paid ₹2,75,000 for implementing these automations and efficiencies. Since it was my father’s company, I was compensated 20% below the market rate, which was acceptable given the flexibility to work on my own schedule.
